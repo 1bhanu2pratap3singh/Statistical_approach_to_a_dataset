@@ -1,6 +1,7 @@
 # Statistical_approach_to_a_dataset
 In this, we will apply many topics related to statistical (inferential and Descriptive)
 some of the issues include 
+
 ---descriptive approach 
 The measure of Central tendency – represents the center or average of mean, median, and mode.
 The measure of Dispersion/variability– measures of the spread of the data like range, variance, and standard deviation.
